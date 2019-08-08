@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url("../img/camel.jpg");
+  background-size: auto;
+  color: #f2ddb3;
+  font-family: 'Alfa Slab One';font-size: 22px;
+  text-align: center;
+};
+/* h1 {
+  text-align: center;
+} */
