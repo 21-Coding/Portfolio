@@ -1,20 +1,20 @@
-# _{Application Name}_
+# _{Portfolio}_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{Allows user to scan Dominique Youmans's personal life and history}, {08-09-2019}_
 
-#### By _**{List of contributors}**_
+#### By _**{Dominique Youmans}**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_{This application shows the history of its creator.  It goes into slight detail about the creators  personal hobbies, history of projects, and why they decided to learn code}_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Install Portfolio by downloading zip file link from Github_
+* _expand zip into new folder_
+* _open folders contents_
+* _open folder containing index.html_
+* _run index.html_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
