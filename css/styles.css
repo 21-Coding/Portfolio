@@ -1,5 +1,9 @@
+body {
+  background-image: "";
+}
+
 .jumbotron {
-  background-image: url("../img/camel.jpg");
+  background-image: url("");
   background-size: auto;
   color: #f2ddb3;
   font-family: 'Alfa Slab One';font-size: 22px;
