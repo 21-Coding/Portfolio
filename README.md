@@ -1,4 +1,4 @@
-# _{Portfolio}_
+# _Portfolio_
 
 #### _{Allows user to scan Dominique Youmans's personal life and history}, {08-09-2019}_
 
