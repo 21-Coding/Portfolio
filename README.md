@@ -1,12 +1,12 @@
 # _Portfolio_
 
-#### _{Allows user to scan Dominique Youmans's personal life and history}, {08-09-2019}_
+#### _Allows user to scan Dominique Youmans's personal life and history, 08-09-2019_
 
-#### By _**{Dominique Youmans}**_
+#### By _**Dominique Youmans**_
 
 ## Description
 
-_{This application shows the history of its creator.  It goes into slight detail about the creators  personal hobbies, history of projects, and why they decided to learn code}_
+_This application shows the history of its creator.  It goes into slight detail about the creators  personal hobbies, history of projects, and why they decided to learn code_
 
 ## Setup/Installation Requirements
 
@@ -19,18 +19,18 @@ _{This application shows the history of its creator.  It goes into slight detail
 
 ## Known Bugs
 
-_{Buttons are not fully funv }_
+_Buttons are not fully funv _
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_List of contributors or company name_**
