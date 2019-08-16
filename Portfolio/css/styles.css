@@ -11,7 +11,8 @@
 
 };
 
-.dy {
-	backgound-position: center;
-}
-	
+.bit {
+	background-position: center;
+	float: left;
+	}
+
