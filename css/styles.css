@@ -8,5 +8,26 @@
   font-family: 'Alfa Slab One';font-size: 22px;
   text-align: center;
   float: none;
+  padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+padding-left: 80px;
 
 };
+
+.bit {
+	background-position: center;
+	float: left;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+	}
+
+  .well {
+    padding-top: 10px;
+padding-right: 30px;
+padding-bottom: 10px;
+padding-left: 80px;
+  }
